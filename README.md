@@ -3,6 +3,7 @@
 住宅电工咨询报价网站首版。位置：D:\电工网。
 
 ## 预览
+- 公开网站：https://yangdemos.github.io/electrician_design/
 - 当前预览：http://127.0.0.1:5186/
 - 在此文件夹运行 `npm.cmd run dev` 或 `node server.cjs`，然后打开上述地址。
 - 也可双击 index.html 查看；无需安装依赖。
